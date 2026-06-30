@@ -1,4 +1,4 @@
-# REVELATION: Survive the Four Seals
+# Epiphony: Survive the Four Seals
 
 > *Knowledge is your greatest weapon. Every answer raises a new question.*
 
@@ -39,7 +39,7 @@ A psychological survival horror game where players endure the collapse of the wo
 
 ## Game Vision
 
-REVELATION is built on three pillars:
+EPIPHONY is built on three pillars:
 
 - **Fear over combat** — the player never becomes a superhero. Surviving means avoiding, not defeating.
 - **Knowledge as progression** — understanding the world's rules is the real advancement.
